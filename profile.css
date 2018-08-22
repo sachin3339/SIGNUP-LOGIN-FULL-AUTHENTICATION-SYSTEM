@@ -1,0 +1,54 @@
+body{
+	margin:0;
+	padding:;
+	background-color:;
+	background-size: cover;
+	background-position:centre;
+	font-family:sans-serif;
+	
+}
+
+.user{
+	width:1320px;
+	height:300px;
+	border:solid;
+	border-bottom-color:black;
+	border-top-width:15px;
+}
+.profile
+{
+	height:250px;
+	width:250px;
+	margin-top:1%;
+	margin-left:1%;
+	border:solid;
+}
+.below{
+	height:550px;
+	width:1320px;
+	border:solid;
+	position:relative;
+	top:20%;
+	border-bottom-width:20px;
+}
+#child>.title{
+	width:250px;
+	height:40px;
+	border:solid;
+	font-size:16px;
+	font-weight:bold;
+	margin-left:45%;
+	border-bottom-width:20px;
+}
+#user>.upload{
+	margin-top:80%;
+}
+#abc{
+	height:200;
+	width:1350;
+	border:solid;
+	border-color:red;
+	border-width:7px;
+	position:relative;
+	margin-top:5%;
+}
